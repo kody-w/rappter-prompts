@@ -1,16 +1,20 @@
 {
- "tested_utc": "2026-08-28T16:23:48Z",
+ "tested_utc": "2026-08-28T16:25:30Z",
  "box": "rapterbox (RapterBox LLC's own box)",
  "data": "synthetic business + simulated CRM from kody-w/rapp-static-apis (customer360, Dynamics-shaped)",
  "routines": {
   "morning-brief": {
-   "pass": false,
-   "shape_found": [],
-   "chars": 816,
-   "seconds": 5,
-   "frame_hash": "1a4ee146b5c2833916e2c461741bfb33f8b66079cb4ab66bdfd17a8134f08f8a",
-   "seq": 12,
-   "reads": 4
+   "pass": true,
+   "shape_found": [
+    "NEEDS YOU",
+    "HANDLED",
+    "QUIETED"
+   ],
+   "chars": 1108,
+   "seconds": 6,
+   "frame_hash": "9ba0ba59e0907370283c3a4c12e71a68c99a58cb75e885dcfb017260cb0d97c2",
+   "seq": 22,
+   "reads": 2
   },
   "chase-invoices": {
    "pass": true,
@@ -19,10 +23,10 @@
     "DAY 21",
     "DAY 45"
    ],
-   "chars": 2244,
-   "seconds": 10,
-   "frame_hash": "683d68c9aa5cd1adeeda9cc7b88416492893f1f10d781bc9971b7d8261344066",
-   "seq": 13,
+   "chars": 2340,
+   "seconds": 11,
+   "frame_hash": "e85223aa923f2b8269511585d5e42467230a15e0aa3383915e641d856efc5d51",
+   "seq": 23,
    "reads": 4
   },
   "compliance-calendar": {
@@ -30,10 +34,10 @@
    "shape_found": [
     "NEEDS YOU"
    ],
-   "chars": 1546,
+   "chars": 1622,
    "seconds": 7,
-   "frame_hash": "69133fb0fc14a7c4734c323f8913e6e29889882d94815eae178cbfea2617b869",
-   "seq": 14,
+   "frame_hash": "ea565f630ba02da3328779c97e3de38e0a3d76deed2f5f9b5b6464898db88f6d",
+   "seq": 24,
    "reads": 2
   },
   "review-replies": {
@@ -41,10 +45,10 @@
    "shape_found": [
     "NEEDS YOU"
    ],
-   "chars": 1717,
-   "seconds": 9,
-   "frame_hash": "943f6595c050114245cd0d4f32f6011453a3d5f7b78083b59d2f57bf4030be38",
-   "seq": 15,
+   "chars": 1287,
+   "seconds": 7,
+   "frame_hash": "aa433e86b526e5ae56427a7561ad3b6b949d2619df63c45bcc7cd4780f17adb1",
+   "seq": 25,
    "reads": 4
   },
   "sop-from-memo": {
@@ -53,10 +57,10 @@
     "You will need",
     "Common mistakes"
    ],
-   "chars": 1604,
+   "chars": 1696,
    "seconds": 7,
-   "frame_hash": "cd930a07b2bd6d7e127cc926570926465709bb1109929a0659b589fcf3096589",
-   "seq": 16,
+   "frame_hash": "be886913250a9f1d6afda3e93bdd53745aed09176a223b7e612ba691e89e4068",
+   "seq": 26,
    "reads": 2
   },
   "hiring-ad": {
@@ -64,10 +68,10 @@
    "shape_found": [
     "screening"
    ],
-   "chars": 1114,
+   "chars": 1217,
    "seconds": 5,
-   "frame_hash": "33c2b0ffaf75d625bb957f7d4ad6fe6b993c9c690ade3b481aebf26f0334dffe",
-   "seq": 17,
+   "frame_hash": "2811a7f1a55dfc7e97808a233856d60aac67fb16de722a647fc400417d7e6be9",
+   "seq": 27,
    "reads": 2
   },
   "weekly-numbers": {
@@ -75,30 +79,33 @@
    "shape_found": [
     "NEEDS YOU"
    ],
-   "chars": 502,
-   "seconds": 4,
-   "frame_hash": "cacc61ea36f4b2d928edc16b9210711cbb89828e9f1d8905cdf28671f8f1362a",
-   "seq": 18,
+   "chars": 993,
+   "seconds": 6,
+   "frame_hash": "e135113ca6ba70699758eb738d02bcd4c7d01270b0def408baf122962142b053",
+   "seq": 28,
    "reads": 4
   },
   "vendor-compare": {
-   "pass": false,
-   "shape_found": [],
-   "chars": 436,
-   "seconds": 3,
-   "frame_hash": "9d9db9b5521b66b1b8b1ad9caa0f5ce4268b1b5f6dc6f0892183d4e56706d60a",
-   "seq": 19,
-   "reads": 4
+   "pass": true,
+   "shape_found": [
+    "recommend"
+   ],
+   "chars": 1127,
+   "seconds": 5,
+   "frame_hash": "fbce747b869bd70f6863ae1ca508b52c2e7ef573b52f5d3c860628b6b700a13e",
+   "seq": 29,
+   "reads": 2
   },
   "customer-followup": {
    "pass": true,
    "shape_found": [
-    "day 1"
+    "day 1",
+    "day 14"
    ],
-   "chars": 466,
-   "seconds": 4,
-   "frame_hash": "5f189935ad15fe9895aceb2f7581a81787d5d543744909e9abc11feec3869291",
-   "seq": 20,
+   "chars": 990,
+   "seconds": 5,
+   "frame_hash": "8c3e50e9e68d6581c6a47f98ae334ef663193cfbea25eecfa1e116e841d6d539",
+   "seq": 30,
    "reads": 6
   },
   "meeting-to-tasks": {
@@ -107,13 +114,13 @@
     "DECIDED",
     "TASKS"
    ],
-   "chars": 612,
-   "seconds": 4,
-   "frame_hash": "9d0b00e0b4e2c90a54277108e8038390931170f90a0727b1db221f86a0841a6c",
-   "seq": 21,
+   "chars": 958,
+   "seconds": 6,
+   "frame_hash": "636aa65799a5283096415affa28f94327a0fab87aedd0a5b08c1146b4296b7e5",
+   "seq": 31,
    "reads": 4
   }
  },
- "passed": 8,
+ "passed": 10,
  "total": 10
 }

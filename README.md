@@ -2,7 +2,7 @@
 Ten prompts a small-business owner can paste into whatever AI they already have (ChatGPT, Copilot, Claude, Gemini).
 Each one tells the AI to read a method page here, then fetch LIVE sample data — a synthetic business and a simulated CRM (Dynamics/Salesforce-shaped) served from GitHub — so it works in under a minute with no data of yours. We run every base prompt on our own box against the same endpoints and publish the results in `starter-pack/tested.json`.
 
-No data handy? Every method page has a **Try it with sample data** line: a made-up business in `starter-pack/synthetic/` and a simulated small-business CRM at https://kody-w.github.io/rapp-static-apis/smb-crm/ (Dynamics/Salesforce-shaped, read-only, public, SYNTHETIC). The prompt works in under a minute, then you swap in your own inputs.
+No data handy? Every method page has a **Try it with sample data** line: a made-up business in `starter-pack/synthetic/` and a simulated small-business CRM at https://kody-w.github.io/rapp-static-apis/smb-crm/ (index + registry.json; Dynamics/Salesforce-shaped, read-only, public, SYNTHETIC). The prompt works in under a minute, then you swap in your own inputs.
 
 Use them on the site: https://rappter.com/prompts/
 

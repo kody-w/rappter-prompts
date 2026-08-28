@@ -109,5 +109,29 @@
    "job": "drain clearing",
    "issue": null
   }
- ]
+ ],
+ "quotes": [
+  {
+   "vendor": "Vendor 1 (van lease)",
+   "monthly": 890,
+   "term_months": 36,
+   "fees": "$1,200 setup, $0.22/mile over 15k",
+   "includes": "maintenance"
+  },
+  {
+   "vendor": "Vendor 2 (van lease)",
+   "monthly": 740,
+   "term_months": 48,
+   "fees": "$0 setup, $0.30/mile over 12k",
+   "includes": "nothing; maintenance extra ~$95/mo"
+  },
+  {
+   "vendor": "Vendor 3 (van lease)",
+   "monthly": 960,
+   "term_months": 24,
+   "fees": "$500 setup",
+   "includes": "maintenance, tires, early-exit at month 12"
+  }
+ ],
+ "vendor_need": "one more work van for the second crew; ~18k miles/yr; keep for 3 years"
 }

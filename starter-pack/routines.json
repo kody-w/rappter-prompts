@@ -115,7 +115,7 @@
    "method": "https://github.com/kody-w/rappter-prompts/blob/main/prompts/weekly-numbers.md",
    "schedule": "Fri 16:00",
    "reads": [
-    "sales, cash in/out, unpaid total, jobs booked/done"
+    "week numbers: sales, cash in/out, unpaid total, jobs booked/done"
    ],
    "writes": "one rapp/1 frame (kind memory.save) per run: the output + a receipt of every input touched",
    "will_never": [

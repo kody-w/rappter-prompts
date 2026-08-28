@@ -58,5 +58,56 @@
    "item": "Van registration (2)",
    "renews": "2026-09-30"
   }
+ ],
+ "reviews": [
+  {
+   "stars": 5,
+   "text": "Came out same day for a burst pipe, cleaned up after. Fair price."
+  },
+  {
+   "stars": 2,
+   "text": "Showed up 40 minutes late and nobody called. Work was fine."
+  },
+  {
+   "stars": 4,
+   "text": "Good work on the water heater, invoice took a week to arrive."
+  },
+  {
+   "stars": 1,
+   "text": "Quoted one price, charged another. Still waiting on a call back."
+  }
+ ],
+ "owner_voice": "Plain, friendly, no corporate words. Says 'appreciate you'. Owns mistakes fast.",
+ "week_numbers": {
+  "week_ending": "2026-08-28",
+  "sales_booked": 18400,
+  "cash_in": 12150,
+  "cash_out": 9800,
+  "unpaid_invoices_total": 6660,
+  "jobs_booked": 22,
+  "jobs_completed": 19,
+  "last_week": {
+   "cash_in": 10400,
+   "cash_out": 10100,
+   "jobs_completed": 21
+  },
+  "cash_on_hand": 31000
+ },
+ "completed_jobs_last_week": [
+  {
+   "customer": "Customer D",
+   "job": "leak repair under sink",
+   "issue": null
+  },
+  {
+   "customer": "Customer E",
+   "job": "water heater replacement",
+   "issue": "arrived late"
+  },
+  {
+   "customer": "Customer F",
+   "job": "drain clearing",
+   "issue": null
+  }
  ]
 }

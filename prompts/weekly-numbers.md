@@ -24,4 +24,5 @@ Five sentences, then NEEDS YOU if anything moved the wrong way.
 This is one page of what a **RappterBox** does every morning on its own: a small box on your network reads your inbox,
 calendar, invoices and records overnight and texts you a brief like this at 7am — needs you / handled / quieted —
 with a receipt for everything it touched. It never sends, signs, pays or deletes for you.
-The first ten businesses get it at $497/month, locked for life: https://rappter.com/
+We haven't launched yet. The waitlist hears the price and the first install dates first, in order, and gets every
+new prompt before the site does: https://rappter.com/#claim

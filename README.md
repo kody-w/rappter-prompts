@@ -17,4 +17,4 @@ Use them on the site: https://rappter.com/prompts/
 | [The Follow-Up Engine](prompts/customer-followup.md) | Every finished job gets a follow-up that earns the next one |
 | [The Meeting Cleaner](prompts/meeting-to-tasks.md) | A meeting transcript into owners, tasks and dates — nothing else |
 
-Free to use and share. Drafts only — you send, sign, pay and delete. From RappterBox (https://rappter.com/): the box that runs these every morning for you.
+Free to use and share. Drafts only — you send, sign, pay and delete. From RappterBox (https://rappter.com/): the box that will run these every morning for you. Pre-launch — join the waitlist for priority in line and new prompts first.

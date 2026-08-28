@@ -18,7 +18,13 @@
    "pay me",
    "late paying",
    "behind on",
-   "who owes"
+   "who owes",
+   "late",
+   "overdue",
+   "past due",
+   "chasing",
+   "who is late",
+   "whos late"
   ],
   "morning-brief": [
    "morning",
@@ -31,7 +37,10 @@
    "agenda",
    "day",
    "what's up",
-   "whats up"
+   "whats up",
+   "needs my attention",
+   "on fire",
+   "priorities"
   ],
   "compliance-calendar": [
    "deadline",

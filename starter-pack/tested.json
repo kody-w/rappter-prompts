@@ -1,0 +1,122 @@
+{
+ "tested_utc": "2026-08-28T16:17:46Z",
+ "box": "rapterbox (RapterBox LLC's own box)",
+ "data": "synthetic business + simulated CRM from kody-w/rapp-static-apis (customer360, Dynamics-shaped)",
+ "routines": {
+  "morning-brief": {
+   "pass": true,
+   "shape_found": [
+    "NEEDS YOU",
+    "HANDLED",
+    "QUIETED"
+   ],
+   "chars": 503,
+   "seconds": 4,
+   "frame_hash": "828c3ffbb07bb7e56eac4fb6b9ee8acb781f2c720064aa672007a18d8f5267bc",
+   "seq": 2,
+   "reads": 4
+  },
+  "chase-invoices": {
+   "pass": true,
+   "shape_found": [
+    "DAY 7",
+    "DAY 21",
+    "DAY 45"
+   ],
+   "chars": 1907,
+   "seconds": 8,
+   "frame_hash": "956579142f665c07bb9f78a96e445e9778aa9f53331e94f4091e5d8550f1d453",
+   "seq": 3,
+   "reads": 4
+  },
+  "compliance-calendar": {
+   "pass": true,
+   "shape_found": [
+    "NEEDS YOU"
+   ],
+   "chars": 1338,
+   "seconds": 6,
+   "frame_hash": "a3dfb1268442fa9926f3f8161287646850406128898d3fef2fbb5e8b1004f6a7",
+   "seq": 4,
+   "reads": 2
+  },
+  "review-replies": {
+   "pass": false,
+   "shape_found": [],
+   "chars": 804,
+   "seconds": 5,
+   "frame_hash": "587f22822c2903a9f9472684878179bb9913222f8b8ba1634b1caaa99dd01e78",
+   "seq": 5,
+   "reads": 6
+  },
+  "sop-from-memo": {
+   "pass": true,
+   "shape_found": [
+    "You will need",
+    "Common mistakes"
+   ],
+   "chars": 1921,
+   "seconds": 9,
+   "frame_hash": "91d87c007b788159858df6356c1d36b93c0406c686e163cd576ae7dbf8dfadeb",
+   "seq": 6,
+   "reads": 2
+  },
+  "hiring-ad": {
+   "pass": true,
+   "shape_found": [
+    "screening"
+   ],
+   "chars": 899,
+   "seconds": 4,
+   "frame_hash": "e8d418f4311a7e4d4f8cb0ab7029f185c61f79100aaf4ec0dcb8e5a77d997fbf",
+   "seq": 7,
+   "reads": 2
+  },
+  "weekly-numbers": {
+   "pass": false,
+   "shape_found": [],
+   "chars": 1070,
+   "seconds": 6,
+   "frame_hash": "ebfd85868f64c4524ddaee03c4a01c46a3f1fe19704da9058bfd65ff69d7004d",
+   "seq": 8,
+   "reads": 4
+  },
+  "vendor-compare": {
+   "pass": true,
+   "shape_found": [
+    "recommend"
+   ],
+   "chars": 945,
+   "seconds": 5,
+   "frame_hash": "16b8b1704dd9ff3d2c443e082a409a3108acc0b56b1d5c88613c2d381121083b",
+   "seq": 9,
+   "reads": 4
+  },
+  "customer-followup": {
+   "pass": true,
+   "shape_found": [
+    "day 1",
+    "day 14"
+   ],
+   "chars": 1346,
+   "seconds": 8,
+   "frame_hash": "fc92babfa6281f9ab9daceb523e6c1a25dfb9e7e182f4c9810bdca91bdd9fa0a",
+   "seq": 10,
+   "reads": 8
+  },
+  "meeting-to-tasks": {
+   "pass": true,
+   "shape_found": [
+    "DECIDED",
+    "TASKS"
+   ],
+   "chars": 1029,
+   "seconds": 5,
+   "frame_hash": "3f172e17335afd9d3fb0c28962545c644fa8b4a6f6889416609acb42dc069ef5",
+   "seq": 11,
+   "reads": 4
+  }
+ },
+ "passed": 8,
+ "total": 10
+}

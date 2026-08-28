@@ -1,5 +1,5 @@
 {
- "tested_utc": "2026-08-28T16:45:08Z",
+ "tested_utc": "2026-08-28T16:47:40Z",
  "box": "rapterbox (RapterBox LLC's own box)",
  "data": "synthetic business + simulated CRM from kody-w/rapp-static-apis (customer360, Dynamics-shaped)",
  "routines": {
@@ -10,27 +10,27 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/morning-brief.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/morning-brief.md",
      "sha256": "f651240e1ffa1ec3706adbfd232eb7aa080eff4edc1a244f4691096496ccdc45",
      "bytes": 2386
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "NEEDS YOU",
     "HANDLED",
     "QUIETED"
    ],
-   "chars": 1014,
-   "seconds": 8,
-   "frame_hash": "0a92796b39e061012cafc74a4e0b9837148634816dab4d4f76838bebe23c3b5e",
-   "seq": 43
+   "chars": 759,
+   "seconds": 7,
+   "frame_hash": "599f6900742fc40f9a41d7cd5fb855d7b733e8e0e60f2722212a860bce7600ad",
+   "seq": 54
   },
   "chase-invoices": {
    "pass": true,
@@ -39,12 +39,12 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/chase-invoices.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/chase-invoices.md",
      "sha256": "38ef9a835b4f7b94d7cec9e186b46dcd2de22644348c2b034b737c852575f020",
      "bytes": 2170
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     },
@@ -59,17 +59,17 @@
      "bytes": 3205
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "DAY 7",
     "DAY 21",
     "DAY 45"
    ],
-   "chars": 2236,
+   "chars": 2354,
    "seconds": 12,
-   "frame_hash": "67a3bd912d5b1f958c81291f2814c5c5c02350131ee4c97dd0a53a282ce1702a",
-   "seq": 44
+   "frame_hash": "824759d61964757c17c7cb4ddd91bd770da1adf78d9e2a9c817bbef01eb8622f",
+   "seq": 55
   },
   "compliance-calendar": {
    "pass": true,
@@ -78,26 +78,26 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/compliance-calendar.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/compliance-calendar.md",
      "sha256": "1315d234d49d108155c7ac4aa5db5f1c65bc511b1edc89b8bd363b7bb72ac40e",
      "bytes": 2151
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "NEEDS YOU",
     "UNKNOWN"
    ],
-   "chars": 1113,
-   "seconds": 8,
-   "frame_hash": "b94a609d7148090aee35f3aedb826008040bb28d2f65e1e62567c6f6f20ac773",
-   "seq": 45
+   "chars": 1382,
+   "seconds": 6,
+   "frame_hash": "a67a5f0ddefea76708565ae89101c9dd0fe6bd85d4d005ace1ec486b5f6667ff",
+   "seq": 56
   },
   "review-replies": {
    "pass": true,
@@ -106,12 +106,12 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/review-replies.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/review-replies.md",
      "sha256": "84e59eba78c890b0d905c0038e206f7e90c09b25da048579e0a80ec4552c10d2",
      "bytes": 2135
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     },
@@ -126,15 +126,15 @@
      "bytes": 4002
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "NEEDS YOU"
    ],
-   "chars": 1865,
-   "seconds": 11,
-   "frame_hash": "9a381626dfe9b7e2dfdefedc3f6d2d9cf463cae04bd695f96e1a90e9f3df70aa",
-   "seq": 46
+   "chars": 1386,
+   "seconds": 8,
+   "frame_hash": "83b83ba11c7acf91ff5a191f628c5d0ccaa3e95ec552e5d3502c756ddb72b067",
+   "seq": 57
   },
   "sop-from-memo": {
    "pass": true,
@@ -143,26 +143,26 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/sop-from-memo.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/sop-from-memo.md",
      "sha256": "9d4910c3f334967e0e4b44a67f42e84409b0ce7fc2fa42537253d1aa10678922",
      "bytes": 2113
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "You will need",
     "Common mistakes"
    ],
-   "chars": 1702,
-   "seconds": 8,
-   "frame_hash": "9c68569e815fb427b77a19c6e004a26f7cc7165bb36486eae29745bcd6ef347f",
-   "seq": 47
+   "chars": 2377,
+   "seconds": 9,
+   "frame_hash": "81ead28085ef2e6a732be533867ab9a041b2ecdcbae7dc68d0068204476174b1",
+   "seq": 58
   },
   "hiring-ad": {
    "pass": true,
@@ -171,25 +171,25 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/hiring-ad.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/hiring-ad.md",
      "sha256": "a762867117e43fbf6311963bf6cd9ed3e0d233df4aa1f99765153f6c9ef13de5",
      "bytes": 2054
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "screening"
    ],
-   "chars": 1621,
+   "chars": 1507,
    "seconds": 7,
-   "frame_hash": "e8bcc9981a0673a3fec0b3802e96fbd38c8691cfcd8f629eb2d2ce07480a6c28",
-   "seq": 48
+   "frame_hash": "c693c5f42e7b55852c9438ac55233874b886a193cfc8e76666e8aa1b8cd3283b",
+   "seq": 59
   },
   "weekly-numbers": {
    "pass": true,
@@ -198,12 +198,12 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/weekly-numbers.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/weekly-numbers.md",
      "sha256": "60d5a0165c7b6b154d37e051188365a647c042a63c0bedeeaad2aca6549f68b1",
      "bytes": 2263
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     },
@@ -218,15 +218,15 @@
      "bytes": 5604
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "runway"
    ],
-   "chars": 996,
-   "seconds": 6,
-   "frame_hash": "a898de9d4fead9b10fe320360a120f82b364872ea2dad230f7b514f68e772400",
-   "seq": 49
+   "chars": 677,
+   "seconds": 5,
+   "frame_hash": "3566bf4508802628d8fe65446df488ec55f66b789a388cd4baff04708805f313",
+   "seq": 60
   },
   "vendor-compare": {
    "pass": true,
@@ -235,40 +235,40 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/vendor-compare.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/vendor-compare.md",
      "sha256": "efa3921cf0abb68d4517b58e2c3c0fb11dc794f659d1e6e4f601d928b48bc841",
      "bytes": 2018
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "recommend",
     "question"
    ],
-   "chars": 1731,
-   "seconds": 9,
-   "frame_hash": "70a63b96a350994c4b449c65ab84eb7252b95fd08970194d722182d2c1c25ec4",
-   "seq": 50
+   "chars": 1645,
+   "seconds": 8,
+   "frame_hash": "d6effb49e188ddd9dcf531977a4c0477274562cea55d62c766022dd29cbd5ed1",
+   "seq": 61
   },
   "customer-followup": {
    "pass": false,
-   "asked_instead": false,
+   "asked_instead": true,
    "frame_verified": true,
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/customer-followup.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/customer-followup.md",
      "sha256": "600701604581f975fa168833e7f82c52309f41768dde28e66228fbd20ecf836f",
      "bytes": 2076
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     },
@@ -293,13 +293,13 @@
      "bytes": 4002
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [],
-   "chars": 1983,
-   "seconds": 9,
-   "frame_hash": "64507e4a41ee9617303ea46149bca40ac54e797602f56f772944c9bbe758e2f7",
-   "seq": 51
+   "chars": 838,
+   "seconds": 5,
+   "frame_hash": "6ed99def0940a4a8a4c6b5f7e78a0d5f404e082fb1a85bc06e1d0c9e5185ecab",
+   "seq": 62
   },
   "meeting-to-tasks": {
    "pass": true,
@@ -308,26 +308,26 @@
    "inputs_pinned": true,
    "reads": [
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/prompts/meeting-to-tasks.md",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/prompts/meeting-to-tasks.md",
      "sha256": "5eefac99756e53ff9243999bf737e984129438c4b7e621e13c1b72469540eed0",
      "bytes": 1925
     },
     {
-     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/875992e7f9a2a99ea83ad09e2373265cbaca559c/starter-pack/synthetic/maple-and-sons.json",
+     "url": "https://raw.githubusercontent.com/kody-w/rappter-prompts/ecd93a7f05cd4bbae6aede085544b81ba403c93c/starter-pack/synthetic/maple-and-sons.json",
      "sha256": "9437128f3c823487c0b080356d0881b27ac02fe9217c511e64b8e4b48461dbe6",
      "bytes": 5938
     }
    ],
-   "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
+   "library_commit": "ecd93a7f05cd4bbae6aede085544b81ba403c93c",
    "today": "2026-08-28",
    "shape_found": [
     "DECIDED",
     "TASKS"
    ],
-   "chars": 683,
-   "seconds": 4,
-   "frame_hash": "89931d76c4f9ed735c5dbb02dbca05c530be72a39153c305d4068dec7d0173b2",
-   "seq": 52
+   "chars": 406,
+   "seconds": 3,
+   "frame_hash": "ed3deb52f3c732cf4d2175659edc176bd5dc7a8063a1f7f02e35aab9897f2fb2",
+   "seq": 63
   }
  },
  "passed": 9,

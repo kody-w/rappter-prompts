@@ -97,17 +97,20 @@
   {
    "customer": "Customer D",
    "job": "leak repair under sink",
-   "issue": null
+   "issue": null,
+   "completed": "2026-08-24"
   },
   {
    "customer": "Customer E",
    "job": "water heater replacement",
-   "issue": "arrived late"
+   "issue": "arrived late",
+   "completed": "2026-08-25"
   },
   {
    "customer": "Customer F",
    "job": "drain clearing",
-   "issue": null
+   "issue": null,
+   "completed": "2026-08-27"
   }
  ],
  "quotes": [
@@ -148,5 +151,6 @@
   "location": "Marietta GA and north metro, van provided",
   "last_hire_problem": "claimed five years' experience, could not solder a joint; needed supervision on every call"
  },
- "meeting_transcript": "Kody: okay quick one. The Northside job \u2014 Dave, can you get the permit in by Thursday? Dave: yeah if the drawings are done. Maria: drawings are done, I'll send them tonight. Kody: good. Second thing, the van lease, I'm leaning Vendor 3 because of the exit clause, but I want to see the mileage math. Maria: I can do that Friday. Kody: fine. Also somebody needs to call Customer C about the four grand, it's been two months. Dave: I'll do it. Kody: when. Dave: tomorrow. Kody: and we still don't have a decision on the second crew truck, that's on me. That's it."
+ "meeting_transcript": "Kody: okay quick one. The Northside job \u2014 Dave, can you get the permit in by Thursday? Dave: yeah if the drawings are done. Maria: drawings are done, I'll send them tonight. Kody: good. Second thing, the van lease, I'm leaning Vendor 3 because of the exit clause, but I want to see the mileage math. Maria: I can do that Friday. Kody: fine. Also somebody needs to call Customer C about the four grand, it's been two months. Dave: I'll do it. Kody: when. Dave: tomorrow. Kody: and we still don't have a decision on the second crew truck, that's on me. That's it.",
+ "as_of": "2026-08-28"
 }

@@ -6,7 +6,7 @@ Paste last week's completed jobs: customer, what was done, any issue.
 
 ## Method (the AI follows these exactly)
 1. For each: a 3-line thank-you text, one useful reminder (maintenance date, warranty, what to watch), and one soft ask (review or referral) — never both asks in one message.
-2. Space the sends: thank-you day 1, reminder day 14, ask day 30. Give the owner the exact dates.
+2. Space the sends from each job's completed date: thank-you day 1, reminder day 14, ask day 30. Give the owner the exact dates, computed from TODAY.
 
 ## Output format
 ```

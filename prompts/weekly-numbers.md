@@ -5,7 +5,7 @@ _Five numbers, in plain English, that tell the owner if the week was good._ Free
 Paste the week's sales, cash in, cash out, unpaid invoices total, and jobs completed vs booked.
 
 ## Method (the AI follows these exactly)
-1. Compute: cash position change, collection rate, jobs completed %, average ticket, and days of cash runway.
+1. Compute: cash position change (cash in − cash out), collection rate (cash in ÷ sales booked), jobs completed % (completed ÷ booked), average ticket (sales booked ÷ jobs booked), and weeks of cash runway (cash on hand ÷ this week's cash out). Show the arithmetic in one short line each.
 2. Write each as one sentence a spouse would understand. Flag anything worse than last week (if given) in NEEDS YOU.
 3. No charts, no jargon, under 100 words.
 

@@ -92,12 +92,11 @@
   "slug": "customer-followup",
   "title": "The Follow-Up Engine",
   "promise": "Every finished job gets a follow-up that earns the next one",
-  "prompt": "You are helping the owner of a small business. Do these in order:\n1. Open and read this method page in full and follow its Method and Output format exactly: https://github.com/kody-w/rappter-prompts/blob/main/prompts/customer-followup.md\n2. Fetch the live sample data and use it as the inputs (a made-up business, labelled SYNTHETIC; the second file is a simulated CRM in the shape of a Dynamics 365 / Salesforce export \u2014 use it only if the method asks for a customer record):\n   https://raw.githubusercontent.com/kody-w/rappter-prompts/main/starter-pack/synthetic/maple-and-sons.json\n   https://raw.githubusercontent.com/kody-w/rapp-static-apis/main/customer360/api/data/v9.2/accounts.json\n3. Produce the output, phone-sized. Never invent dates, numbers or promises \u2014 mark them UNKNOWN or ASK OWNER.\n4. Then tell me, in two lines, what to paste from my own business to run it for real.",
+  "prompt": "You are helping the owner of a small business. Do these in order:\n1. Open and read this method page in full and follow its Method and Output format exactly: https://github.com/kody-w/rappter-prompts/blob/main/prompts/customer-followup.md\n2. Fetch the live sample data and use it as the inputs (it is a made-up business, labelled SYNTHETIC):\n   https://raw.githubusercontent.com/kody-w/rappter-prompts/main/starter-pack/synthetic/maple-and-sons.json\n3. Produce the output, phone-sized. Never invent dates, numbers or promises \u2014 mark them UNKNOWN or ASK OWNER.\n4. Then tell me, in two lines, what to paste from my own business to run it for real.",
   "page": "https://github.com/kody-w/rappter-prompts/blob/main/prompts/customer-followup.md",
   "own_prompt": "You are helping the owner of a small business. First, open and read this method page in full and follow its Method and Output format exactly: https://github.com/kody-w/rappter-prompts/blob/main/prompts/customer-followup.md\nThen ask me for the inputs it lists, one message, and produce the output. Keep it phone-sized. Never invent dates, numbers or promises \u2014 mark them UNKNOWN or ASK OWNER.",
   "data": [
-   "https://raw.githubusercontent.com/kody-w/rappter-prompts/main/starter-pack/synthetic/maple-and-sons.json",
-   "https://raw.githubusercontent.com/kody-w/rapp-static-apis/main/customer360/api/data/v9.2/accounts.json"
+   "https://raw.githubusercontent.com/kody-w/rappter-prompts/main/starter-pack/synthetic/maple-and-sons.json"
   ]
  },
  {

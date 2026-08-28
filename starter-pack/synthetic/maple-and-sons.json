@@ -1,0 +1,62 @@
+{
+ "business": {
+  "name": "SYNTHETIC \u2014 Maple & Sons Plumbing (not a real company)",
+  "type": "residential plumbing",
+  "staff": 9,
+  "city": "Marietta",
+  "state": "GA",
+  "owner_rate_per_hour": 150
+ },
+ "how_today_transcript": "So every Friday afternoon I open the bank app on my phone and go down the list of who paid. Then I open the invoice folder and anyone who hasn't paid in like three weeks I text them myself, something like hey just checking in on that invoice. If they don't answer I forget about it honestly until the next Friday. Twice a year somebody's like 90 days late and I only notice when I need the cash.",
+ "open_invoices": [
+  {
+   "customer": "Customer A",
+   "amount": 1840,
+   "due": "2026-08-04",
+   "days_late": 24,
+   "last_message": "said they'd pay after the inspection"
+  },
+  {
+   "customer": "Customer B",
+   "amount": 620,
+   "due": "2026-08-19",
+   "days_late": 9,
+   "last_message": null
+  },
+  {
+   "customer": "Customer C",
+   "amount": 4200,
+   "due": "2026-06-30",
+   "days_late": 59,
+   "last_message": "no reply to two texts"
+  }
+ ],
+ "inbox_subjects": [
+  "Re: water heater quote",
+  "Your Georgia contractor license \u2014 renewal notice",
+  "Invoice 1042 question",
+  "Review posted on your listing",
+  "Permit inspection scheduled Thu 9am",
+  "Newsletter: 10 tips for plumbers",
+  "Supplier price update effective Sept 1"
+ ],
+ "calendar_today": [
+  "8:00 job \u2014 Customer D, leak repair",
+  "11:30 estimate \u2014 new customer",
+  "3:00 permit inspection prep"
+ ],
+ "licenses": [
+  {
+   "item": "GA Master Plumber license",
+   "renews": "2026-10-15"
+  },
+  {
+   "item": "General liability policy",
+   "renews": "UNKNOWN"
+  },
+  {
+   "item": "Van registration (2)",
+   "renews": "2026-09-30"
+  }
+ ]
+}

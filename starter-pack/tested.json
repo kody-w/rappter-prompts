@@ -1,5 +1,5 @@
 {
- "tested_utc": "2026-08-28T16:42:46Z",
+ "tested_utc": "2026-08-28T16:45:08Z",
  "box": "rapterbox (RapterBox LLC's own box)",
  "data": "synthetic business + simulated CRM from kody-w/rapp-static-apis (customer360, Dynamics-shaped)",
  "routines": {
@@ -27,10 +27,10 @@
     "HANDLED",
     "QUIETED"
    ],
-   "chars": 858,
-   "seconds": 5,
-   "frame_hash": "29a1b8e53d4221463ab95ac87855c2521d8053ee5e59aa06ef699f68344c4f64",
-   "seq": 33
+   "chars": 1014,
+   "seconds": 8,
+   "frame_hash": "0a92796b39e061012cafc74a4e0b9837148634816dab4d4f76838bebe23c3b5e",
+   "seq": 43
   },
   "chase-invoices": {
    "pass": true,
@@ -66,10 +66,10 @@
     "DAY 21",
     "DAY 45"
    ],
-   "chars": 2384,
-   "seconds": 10,
-   "frame_hash": "799312e81e912b547bc8fa4d645138b67d1e32d9f38e79a58a312270028c8c61",
-   "seq": 34
+   "chars": 2236,
+   "seconds": 12,
+   "frame_hash": "67a3bd912d5b1f958c81291f2814c5c5c02350131ee4c97dd0a53a282ce1702a",
+   "seq": 44
   },
   "compliance-calendar": {
    "pass": true,
@@ -94,10 +94,10 @@
     "NEEDS YOU",
     "UNKNOWN"
    ],
-   "chars": 1533,
-   "seconds": 6,
-   "frame_hash": "ab38a3710242f3a4a4e568a33f17db7fa621ce7492152387448d9151662854f9",
-   "seq": 35
+   "chars": 1113,
+   "seconds": 8,
+   "frame_hash": "b94a609d7148090aee35f3aedb826008040bb28d2f65e1e62567c6f6f20ac773",
+   "seq": 45
   },
   "review-replies": {
    "pass": true,
@@ -131,10 +131,10 @@
    "shape_found": [
     "NEEDS YOU"
    ],
-   "chars": 1501,
-   "seconds": 8,
-   "frame_hash": "99389e9737dba385275f30e72c3d4da68065b4896d05ffcef1e1074a129dd849",
-   "seq": 36
+   "chars": 1865,
+   "seconds": 11,
+   "frame_hash": "9a381626dfe9b7e2dfdefedc3f6d2d9cf463cae04bd695f96e1a90e9f3df70aa",
+   "seq": 46
   },
   "sop-from-memo": {
    "pass": true,
@@ -159,10 +159,10 @@
     "You will need",
     "Common mistakes"
    ],
-   "chars": 1854,
+   "chars": 1702,
    "seconds": 8,
-   "frame_hash": "dd48db1497c0677f111d11dce29e20a4549a13f4f8ac934cd7c7fd35430f9612",
-   "seq": 37
+   "frame_hash": "9c68569e815fb427b77a19c6e004a26f7cc7165bb36486eae29745bcd6ef347f",
+   "seq": 47
   },
   "hiring-ad": {
    "pass": true,
@@ -186,10 +186,10 @@
    "shape_found": [
     "screening"
    ],
-   "chars": 1410,
-   "seconds": 6,
-   "frame_hash": "f1c94bff2b6f6e0d7b88ad897e8224d9ae704a353b68230e757d38f0b366751c",
-   "seq": 38
+   "chars": 1621,
+   "seconds": 7,
+   "frame_hash": "e8bcc9981a0673a3fec0b3802e96fbd38c8691cfcd8f629eb2d2ce07480a6c28",
+   "seq": 48
   },
   "weekly-numbers": {
    "pass": true,
@@ -223,10 +223,10 @@
    "shape_found": [
     "runway"
    ],
-   "chars": 661,
-   "seconds": 5,
-   "frame_hash": "93e9be27314ae8a431b47fa91fbce93fdb4ecf774b3c9f559ec30947e62735d7",
-   "seq": 39
+   "chars": 996,
+   "seconds": 6,
+   "frame_hash": "a898de9d4fead9b10fe320360a120f82b364872ea2dad230f7b514f68e772400",
+   "seq": 49
   },
   "vendor-compare": {
    "pass": true,
@@ -251,10 +251,10 @@
     "recommend",
     "question"
    ],
-   "chars": 1739,
-   "seconds": 8,
-   "frame_hash": "ae6878d4338528230d0590de16aa4b29598b0cc9040741b30ec62f444a590ff1",
-   "seq": 40
+   "chars": 1731,
+   "seconds": 9,
+   "frame_hash": "70a63b96a350994c4b449c65ab84eb7252b95fd08970194d722182d2c1c25ec4",
+   "seq": 50
   },
   "customer-followup": {
    "pass": false,
@@ -296,14 +296,14 @@
    "library_commit": "875992e7f9a2a99ea83ad09e2373265cbaca559c",
    "today": "2026-08-28",
    "shape_found": [],
-   "chars": 1841,
-   "seconds": 8,
-   "frame_hash": "f17b6b4886e0f123b405fd8359ede2efa67ca56f8acf3b07c7ee78884e96cf97",
-   "seq": 41
+   "chars": 1983,
+   "seconds": 9,
+   "frame_hash": "64507e4a41ee9617303ea46149bca40ac54e797602f56f772944c9bbe758e2f7",
+   "seq": 51
   },
   "meeting-to-tasks": {
-   "pass": false,
-   "asked_instead": true,
+   "pass": true,
+   "asked_instead": false,
    "frame_verified": true,
    "inputs_pinned": true,
    "reads": [
@@ -324,12 +324,12 @@
     "DECIDED",
     "TASKS"
    ],
-   "chars": 545,
-   "seconds": 3,
-   "frame_hash": "f835730bf40405d27cadf50952b5189f4037d1ee9a9926a5f12490ca3653953a",
-   "seq": 42
+   "chars": 683,
+   "seconds": 4,
+   "frame_hash": "89931d76c4f9ed735c5dbb02dbca05c530be72a39153c305d4068dec7d0173b2",
+   "seq": 52
   }
  },
- "passed": 8,
+ "passed": 9,
  "total": 10
 }
